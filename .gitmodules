@@ -1,0 +1,3 @@
+[submodule "themes/zettels"]
+	path = themes/zettels
+	url = https://github.com/crisrojas/zettels.git
