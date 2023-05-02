@@ -1,0 +1,32 @@
+languageCode = "es-ES"
+title = "Notas"
+uglyURLS =  true
+
+relativeURLs = true
+
+publishDir = "public"
+pygmentsUseClasses = true
+
+assetDir = "themes/zettels/assets"
+
+DefaultContentLanguage = "ko"
+
+theme = "zettels"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[params]
+    theme = "red-graphite" 
+    bear = true
+    favicon = "favicon.ico"
+    author = "Cristian Rojas"
+
+# Enable tags.
+[taxonomies]
+    tag = "tags"
+
+
+# Allows rendering the html inside markdown
+[markup.goldmark.renderer]
+unsafe= true
