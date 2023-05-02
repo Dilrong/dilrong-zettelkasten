@@ -1,5 +1,5 @@
-languageCode = "es-ES"
-title = "Notas"
+languageCode = "ko-KO"
+title = "딜롱의 노트 훔쳐보기"
 uglyURLS =  true
 
 relativeURLs = true
@@ -17,7 +17,7 @@ theme = "zettels"
   home = ["HTML", "JSON"]
 
 [params]
-    theme = "red-graphite" 
+    theme = "duotone-light" 
     bear = true
     favicon = "favicon.ico"
     author = "Cristian Rojas"
