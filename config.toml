@@ -20,7 +20,7 @@ theme = "zettels"
     theme = "duotone-light" 
     bear = true
     favicon = "favicon.ico"
-    author = "Cristian Rojas"
+    author = "dilrong"
 
 # Enable tags.
 [taxonomies]
