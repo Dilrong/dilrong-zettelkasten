@@ -19,7 +19,7 @@ theme = "zettels"
 [params]
     theme = "duotone-light" 
     bear = true
-    favicon = "favicon.ico"
+    favicon = "favicon.png"
     author = "dilrong"
 
 # Enable tags.
