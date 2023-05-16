@@ -21,6 +21,8 @@ title: Zettelkasten of Dilrong
 ### 블록체인
 
 - [[CosmWasm을 이용한 코스모스 기반 스마트 컨트랙트 개발]]
+- [[CosmWasm 스마트 컨트랙트 state를 위한 cw-storage-plus]]
+- [[Stargaze marketplace Contract 분석]]
 
 ## 연결
 
