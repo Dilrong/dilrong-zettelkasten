@@ -20,7 +20,7 @@ title: Zettelkasten of Dilrong
 
 ### 블록체인
 
-### 개발
+- [[CosmWasm을 이용한 코스모스 기반 스마트 컨트랙트 개발]]
 
 ## 연결
 
